@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-![Screenshot 2023-04-02 103154](https://user-images.githubusercontent.com/129751851/229555730-8da89d6b-6c00-4899-8a19-0820b28104ac.png
+![Screenshot 2023-03-31 204036](https://user-images.githubusercontent.com/129751851/229792737-e2ead017-8189-4aa5-9298-b73f203e6214.png)
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
