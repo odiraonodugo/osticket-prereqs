@@ -113,3 +113,5 @@ One step closer to the end. Let us return to osTicket in the web-interface. Name
 ![8](https://i.imgur.com/BBPr0mx.png)
 
 Hopefully osTicket is up and running without any issues. If there is any, feel free to contact me. 
+
+fully osTicket is up and running without any issues. If there is any, feel free to contact me. Now let us be on our way to the next assignment. [Post Installation Config](https://github.com/odiraonodugo/post-install-configuration)
